@@ -1,7 +1,8 @@
+# Donald Serverless Discord Bot
 
-# Welcome to your CDK Python project!
-
-This is a blank project for CDK development with Python.
+This is a Flask app to use on The J Den Discord server.
+Credit to https://www.youtube.com/@pixegami for some setup.
+Feel free to put in a PR to add features.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
